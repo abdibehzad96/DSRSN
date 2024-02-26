@@ -1,0 +1,156 @@
+
+running iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7
+epoch: 1 loss: 6.614 e-3,  test: 5.547 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 1, loss: 6.614 e-3,  test: 5.547 e-3, ct: 02-14-23-47
+epoch: 2 loss: 4.693 e-3,  test: 4.412 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 2, loss: 4.693 e-3,  test: 4.412 e-3, ct: 02-14-23-47
+epoch: 3 loss: 3.891 e-3,  test: 4.121 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 3, loss: 3.891 e-3,  test: 4.121 e-3, ct: 02-14-23-47
+epoch: 4 loss: 3.570 e-3,  test: 4.301 e-3
+epoch: 5 loss: 3.385 e-3,  test: 3.905 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 5, loss: 3.385 e-3,  test: 3.905 e-3, ct: 02-14-23-47
+epoch: 6 loss: 3.218 e-3,  test: 3.978 e-3
+epoch: 7 loss: 3.086 e-3,  test: 4.089 e-3
+epoch: 8 loss: 3.046 e-3,  test: 4.061 e-3
+epoch: 9 loss: 2.956 e-3,  test: 3.558 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 9, loss: 2.956 e-3,  test: 3.558 e-3, ct: 02-14-23-47
+epoch: 10 loss: 2.932 e-3,  test: 3.759 e-3
+epoch: 11 loss: 2.857 e-3,  test: 3.546 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 11, loss: 2.857 e-3,  test: 3.546 e-3, ct: 02-14-23-47
+epoch: 12 loss: 2.830 e-3,  test: 3.470 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 12, loss: 2.830 e-3,  test: 3.470 e-3, ct: 02-14-23-47
+epoch: 13 loss: 2.797 e-3,  test: 3.703 e-3
+epoch: 14 loss: 2.743 e-3,  test: 3.363 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 14, loss: 2.743 e-3,  test: 3.363 e-3, ct: 02-14-23-47
+epoch: 15 loss: 2.748 e-3,  test: 3.580 e-3
+epoch: 16 loss: 2.698 e-3,  test: 3.890 e-3
+epoch: 17 loss: 2.701 e-3,  test: 3.425 e-3
+epoch: 18 loss: 2.650 e-3,  test: 3.474 e-3
+epoch: 19 loss: 2.632 e-3,  test: 3.357 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 19, loss: 2.632 e-3,  test: 3.357 e-3, ct: 02-14-23-47
+epoch: 20 loss: 2.630 e-3,  test: 3.391 e-3
+epoch: 21 loss: 2.591 e-3,  test: 3.414 e-3
+epoch: 22 loss: 2.587 e-3,  test: 3.443 e-3
+epoch: 23 loss: 2.585 e-3,  test: 3.363 e-3
+epoch: 24 loss: 2.563 e-3,  test: 3.463 e-3
+epoch: 25 loss: 2.516 e-3,  test: 3.740 e-3
+epoch: 26 loss: 2.573 e-3,  test: 3.636 e-3
+epoch: 27 loss: 2.517 e-3,  test: 3.426 e-3
+epoch: 28 loss: 2.511 e-3,  test: 3.800 e-3
+epoch: 29 loss: 2.487 e-3,  test: 3.398 e-3
+epoch: 30 loss: 2.482 e-3,  test: 3.294 e-3
+checkpoint saved
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 30, loss: 2.482 e-3,  test: 3.294 e-3, ct: 02-14-23-47
+epoch: 31 loss: 2.466 e-3,  test: 3.601 e-3
+epoch: 32 loss: 2.471 e-3,  test: 3.543 e-3
+epoch: 33 loss: 2.463 e-3,  test: 3.860 e-3
+epoch: 34 loss: 2.432 e-3,  test: 3.655 e-3
+epoch: 35 loss: 2.404 e-3,  test: 3.358 e-3
+epoch: 36 loss: 2.421 e-3,  test: 3.540 e-3
+epoch: 37 loss: 2.402 e-3,  test: 3.489 e-3
+epoch: 38 loss: 2.397 e-3,  test: 4.295 e-3
+epoch: 39 loss: 2.396 e-3,  test: 3.406 e-3
+epoch: 40 loss: 2.394 e-3,  test: 3.552 e-3
+epoch: 41 loss: 2.376 e-3,  test: 3.778 e-3
+epoch: 42 loss: 2.369 e-3,  test: 3.569 e-3
+epoch: 43 loss: 2.375 e-3,  test: 3.569 e-3
+epoch: 44 loss: 2.351 e-3,  test: 3.432 e-3
+epoch: 45 loss: 2.364 e-3,  test: 3.399 e-3
+epoch: 46 loss: 2.338 e-3,  test: 3.792 e-3
+epoch: 47 loss: 2.360 e-3,  test: 3.578 e-3
+epoch: 48 loss: 2.326 e-3,  test: 3.809 e-3
+epoch: 49 loss: 2.334 e-3,  test: 3.440 e-3
+epoch: 50 loss: 2.306 e-3,  test: 3.671 e-3
+epoch: 51 loss: 2.196 e-3,  test: 4.048 e-3
+epoch: 52 loss: 2.153 e-3,  test: 3.584 e-3
+epoch: 53 loss: 2.129 e-3,  test: 3.385 e-3
+epoch: 54 loss: 2.133 e-3,  test: 3.602 e-3
+epoch: 55 loss: 2.114 e-3,  test: 3.654 e-3
+epoch: 56 loss: 2.105 e-3,  test: 3.473 e-3
+epoch: 57 loss: 2.100 e-3,  test: 3.607 e-3
+epoch: 58 loss: 2.080 e-3,  test: 3.492 e-3
+epoch: 59 loss: 2.079 e-3,  test: 3.541 e-3
+epoch: 60 loss: 2.092 e-3,  test: 4.035 e-3
+epoch: 61 loss: 2.072 e-3,  test: 3.483 e-3
+epoch: 62 loss: 2.081 e-3,  test: 3.491 e-3
+epoch: 63 loss: 2.094 e-3,  test: 3.611 e-3
+epoch: 64 loss: 2.095 e-3,  test: 3.661 e-3
+epoch: 65 loss: 2.073 e-3,  test: 3.445 e-3
+epoch: 66 loss: 2.080 e-3,  test: 3.565 e-3
+epoch: 67 loss: 2.039 e-3,  test: 3.455 e-3
+epoch: 68 loss: 2.086 e-3,  test: 3.373 e-3
+epoch: 69 loss: 2.070 e-3,  test: 3.477 e-3
+epoch: 70 loss: 2.064 e-3,  test: 4.726 e-3
+epoch: 71 loss: 2.060 e-3,  test: 3.670 e-3
+epoch: 72 loss: 2.040 e-3,  test: 3.490 e-3
+epoch: 73 loss: 2.037 e-3,  test: 3.616 e-3
+epoch: 74 loss: 2.048 e-3,  test: 3.551 e-3
+epoch: 75 loss: 2.020 e-3,  test: 3.538 e-3
+epoch: 76 loss: 2.053 e-3,  test: 3.762 e-3
+epoch: 77 loss: 2.047 e-3,  test: 3.676 e-3
+epoch: 78 loss: 2.049 e-3,  test: 3.408 e-3
+epoch: 79 loss: 2.054 e-3,  test: 3.493 e-3
+epoch: 80 loss: 2.045 e-3,  test: 3.378 e-3
+epoch: 81 loss: 2.032 e-3,  test: 3.775 e-3
+epoch: 82 loss: 2.035 e-3,  test: 3.450 e-3
+epoch: 83 loss: 2.027 e-3,  test: 3.513 e-3
+epoch: 84 loss: 2.033 e-3,  test: 3.467 e-3
+epoch: 85 loss: 2.038 e-3,  test: 3.687 e-3
+epoch: 86 loss: 2.046 e-3,  test: 3.529 e-3
+epoch: 87 loss: 2.005 e-3,  test: 3.844 e-3
+epoch: 88 loss: 2.040 e-3,  test: 3.415 e-3
+epoch: 89 loss: 2.032 e-3,  test: 3.571 e-3
+epoch: 90 loss: 2.044 e-3,  test: 3.566 e-3
+epoch: 91 loss: 2.035 e-3,  test: 3.447 e-3
+epoch: 92 loss: 2.011 e-3,  test: 3.495 e-3
+epoch: 93 loss: 2.017 e-3,  test: 3.413 e-3
+epoch: 94 loss: 2.021 e-3,  test: 3.399 e-3
+epoch: 95 loss: 2.028 e-3,  test: 3.368 e-3
+epoch: 96 loss: 1.989 e-3,  test: 3.410 e-3
+epoch: 97 loss: 2.012 e-3,  test: 3.455 e-3
+epoch: 98 loss: 2.018 e-3,  test: 3.719 e-3
+epoch: 99 loss: 2.020 e-3,  test: 3.533 e-3
+epoch: 100 loss: 2.013 e-3,  test: 3.690 e-3
+epoch: 101 loss: 1.967 e-3,  test: 3.399 e-3
+epoch: 102 loss: 1.958 e-3,  test: 3.599 e-3
+epoch: 103 loss: 1.965 e-3,  test: 3.692 e-3
+epoch: 104 loss: 1.968 e-3,  test: 3.397 e-3
+epoch: 105 loss: 1.978 e-3,  test: 3.723 e-3
+epoch: 106 loss: 1.985 e-3,  test: 3.374 e-3
+epoch: 107 loss: 1.977 e-3,  test: 3.382 e-3
+epoch: 108 loss: 1.961 e-3,  test: 3.370 e-3
+epoch: 109 loss: 1.963 e-3,  test: 3.595 e-3
+epoch: 110 loss: 1.954 e-3,  test: 3.332 e-3
+epoch: 111 loss: 1.965 e-3,  test: 3.410 e-3
+epoch: 112 loss: 1.970 e-3,  test: 3.432 e-3
+epoch: 113 loss: 1.965 e-3,  test: 3.500 e-3
+epoch: 114 loss: 1.947 e-3,  test: 3.674 e-3
+epoch: 115 loss: 1.962 e-3,  test: 3.462 e-3
+epoch: 116 loss: 1.953 e-3,  test: 3.581 e-3
+epoch: 117 loss: 1.970 e-3,  test: 3.362 e-3
+epoch: 118 loss: 1.954 e-3,  test: 3.417 e-3
+epoch: 119 loss: 1.972 e-3,  test: 3.448 e-3
+epoch: 120 loss: 1.960 e-3,  test: 3.593 e-3
+epoch: 121 loss: 1.950 e-3,  test: 3.873 e-3
+epoch: 122 loss: 1.940 e-3,  test: 3.549 e-3
+epoch: 123 loss: 1.949 e-3,  test: 3.803 e-3
+epoch: 124 loss: 1.956 e-3,  test: 3.788 e-3
+epoch: 125 loss: 1.939 e-3,  test: 3.500 e-3
+epoch: 126 loss: 1.950 e-3,  test: 3.511 e-3
+epoch: 127 loss: 1.935 e-3,  test: 3.381 e-3
+epoch: 128 loss: 1.946 e-3,  test: 3.523 e-3
+epoch: 129 loss: 1.966 e-3,  test: 3.720 e-3
+epoch: 130 loss: 1.950 e-3,  test: 3.367 e-3
+epoch: 131 loss: 1.941 e-3,  test: 3.467 e-3
+early stopping
+model is saved as modelNoise1-88-1-7-8.pth
+Best iteration Noise1-88-1-7-8, learning rate: 0.001, beta: 0.88, thres: 1, kernel size: 7,  epoch: 30, loss: 2.482 e-3,  test: 3.294 e-3, ct: 02-14-23-47
